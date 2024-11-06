@@ -37,8 +37,8 @@
 
 ## 🔥 Projetos em Destaque
 
-- [Meu Projeto Incrível](https://github.com/usuario/projeto): Um projeto que resolve X problema de maneira eficiente usando Y tecnologia.
-- [Outro Projeto](https://github.com/usuario/projeto2): Um projeto colaborativo que se foca em Z área.
+- [Site SINCES](https://Sinces.com.br): Um Projeto que foi criado juntamente com uma empresa de tecnologia para atender clientes de licitaçoes.
+- [Meu Portfolio](https://github.com/Rosdrego/my-portfolio): Um projeto meu de aprimoramento em desenvolvimento de site e apresentando um pouco de mim.
 
 ---
 
