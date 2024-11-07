@@ -41,7 +41,7 @@
 
 <h3 align="left">📊 Estatísticas do GitHub:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dracula" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rosdrego&show_icons=true&theme=dracula" alt="GitHub stats" />
 </p>
 
 ---
